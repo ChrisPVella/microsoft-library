@@ -11,9 +11,6 @@
     .NOTES
     Author:     Chris Vella
     LinkedIn:   linkedin.com/in/chrispvella
-
-    .CHANGELOG
-    1.0, 17/01/2024 - Initial version
 #>
 
 ### Note: This script requires the Microsoft.Graph module to be installed. Uncomment or run the following line to install the module.
